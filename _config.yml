@@ -17,11 +17,11 @@ defaults:
       title: Cerebrux Chat
 
 description: Cerebrux Chat
-social-network-links:
+author:
   name: Cerebrux Chat
   twitter: cerebrux
-  youtube: UCIIc96wWza3zlnPJBf2RS6Q
-  facebook: cerebrux
+#  youtube: UCIIc96wWza3zlnPJBf2RS6Q
+#  facebook: cerebrux
   bio: Chat για τους αναγνώστες του Cerebrux
 
 # rss_path: feed.xml
