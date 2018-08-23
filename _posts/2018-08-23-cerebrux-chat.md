@@ -7,6 +7,6 @@ fullview: true
 comments: false
 ---
 
-<iframe src="http://webchat.freenode.net?channels=%23cerebrux&uio=d4" width="768" height="500"></iframe>
+<iframe src="https://webchat.freenode.net?channels=%23cerebrux&uio=d4" width="868" height="500"></iframe>
 
 Εισερχόμενοι, αποδέχεστε τους όρους που είναι αναρτημένοι στο [Code of conduct](https://cerebrux.net/code-of-conduct/)
