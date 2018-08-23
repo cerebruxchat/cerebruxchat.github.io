@@ -1,7 +1,7 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
+#paginate: 10 # pagination based on number of posts
+#paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
@@ -17,14 +17,14 @@ defaults:
       title: Cerebrux Chat
 
 description: Cerebrux Chat
-author:
+social-network-links:
   name: Cerebrux Chat
   twitter: cerebrux
   youtube: UCIIc96wWza3zlnPJBf2RS6Q
   facebook: cerebrux
   bio: Chat για τους αναγνώστες του Cerebrux
 
-rss_path: feed.xml
+# rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
@@ -33,5 +33,5 @@ tags_path: tags.html
 
 BASE_PATH:
 
-plugins:
-  - jekyll-paginate
+#plugins:
+#  - jekyll-paginate
