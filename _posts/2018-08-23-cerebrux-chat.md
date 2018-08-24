@@ -7,6 +7,6 @@ fullview: true
 comments: false
 ---
 
-<iframe src="https://webchat.freenode.net?channels=%23cerebrux&uio=d4" width="865" height="500"></iframe>
+<iframe src="https://kiwiirc.com/client/irc.freenode.net/#cerebrux" style="border:0; width:100%; height:500px;"></iframe>
 
 Εισερχόμενοι, αποδέχεστε τους όρους που είναι αναρτημένοι στο [Code of conduct](https://cerebrux.net/code-of-conduct/)
