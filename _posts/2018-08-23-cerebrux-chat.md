@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Συνδεθείτε στο Chat μας
+permalink: /:title/
 categories: [general]
 tags: [irc, chat, cerebrux]
 fullview: true
