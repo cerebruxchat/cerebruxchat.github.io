@@ -725,7 +725,7 @@ body.open .site-content
 .single-post h1.entry-title
 {
     font-family: 'Montserrat', sans-serif, Arial;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     -ms-word-wrap: break-word;
     word-wrap: break-word;
     font-size: 48px;
